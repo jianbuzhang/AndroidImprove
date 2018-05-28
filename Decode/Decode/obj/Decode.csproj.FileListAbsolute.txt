@@ -1,0 +1,10 @@
+C:\Documents and Settings\fine\My Documents\Visual Studio 2005\Projects\Decode\Decode\bin\Debug\Decode.exe
+C:\Documents and Settings\fine\My Documents\Visual Studio 2005\Projects\Decode\Decode\bin\Debug\Decode.pdb
+C:\Documents and Settings\fine\My Documents\Visual Studio 2005\Projects\Decode\Decode\bin\Debug\HandHeldProducts.Embedded.Decoding.DecodeComponent.dll
+C:\Documents and Settings\fine\My Documents\Visual Studio 2005\Projects\Decode\Decode\bin\Debug\HandHeldProducts.Embedded.Decoding.DecodeComponent.xml
+C:\Documents and Settings\fine\My Documents\Visual Studio 2005\Projects\Decode\Decode\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fine\My Documents\Visual Studio 2005\Projects\Decode\Decode\obj\Debug\Decode.Form1.resources
+C:\Documents and Settings\fine\My Documents\Visual Studio 2005\Projects\Decode\Decode\obj\Debug\Decode.Properties.Resources.resources
+C:\Documents and Settings\fine\My Documents\Visual Studio 2005\Projects\Decode\Decode\obj\Debug\Decode.csproj.GenerateResource.Cache
+C:\Documents and Settings\fine\My Documents\Visual Studio 2005\Projects\Decode\Decode\obj\Debug\Decode.exe
+C:\Documents and Settings\fine\My Documents\Visual Studio 2005\Projects\Decode\Decode\obj\Debug\Decode.pdb
